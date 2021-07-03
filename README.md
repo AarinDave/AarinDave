@@ -11,6 +11,4 @@ Hello, I am a 13-year old Python programmer, and I have extensive experience wit
 * Java 17
 * C++ 17
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aarindave&theme=tokyonight)
-
-![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=aarindave&theme=tokyonight)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aarindave&theme=github) ![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=aarindave&theme=tokyonight)
