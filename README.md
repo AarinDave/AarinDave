@@ -13,4 +13,4 @@ Hello, I am a 13-year old Python programmer, and I have extensive experience wit
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aarindave&theme=github)
 
-![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=aarindave&theme=tokyonight)
+![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=aarindave&theme=github)
