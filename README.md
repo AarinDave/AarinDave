@@ -3,6 +3,6 @@ Hello, I am a 13-year old Python programmer, and I have extensive experience wit
 
 ### Latest Release: Base Wars
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aarindave&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gamerlots&theme=github)
 
-![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=aarindave&theme=tokyonight)
+![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamerlots&theme=tokyonight)
