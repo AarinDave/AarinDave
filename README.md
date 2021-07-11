@@ -3,6 +3,11 @@ Hello, I am a 13-year old Python programmer, and I have extensive experience wit
 
 ### Latest Release: Base Wars
 
+### Activity In The Past 31 Days
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gamerlots&theme=github)
 
+### Top Programming Languages Used
 ![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamerlots&theme=tokyonight)
+
+### StackOverflow Statistics
+![StackOverflow Statistics](https://github-readme-stackoverflow.vercel.app/?userID=15095204&theme=dark)
