@@ -25,4 +25,4 @@
 
 ### :fire: Statistics
 ![StackOverflow Statistics](https://github-readme-stackoverflow.vercel.app/?userID=15095204&theme=dark)&nbsp;
-![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamerlots&theme=tokyonight)
+![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=aarindave&theme=tokyonight)
