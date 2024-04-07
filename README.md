@@ -19,8 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
 </div>
 
-### Top Programming Languages Used
+### :fire: Statistics
+![StackOverflow Statistics](https://github-readme-stackoverflow.vercel.app/?userID=15095204&theme=dark)&nbsp;
 ![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamerlots&theme=tokyonight)
-
-### StackOverflow Statistics
-![StackOverflow Statistics](https://github-readme-stackoverflow.vercel.app/?userID=15095204&theme=dark)
